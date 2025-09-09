@@ -109,7 +109,7 @@ direccion: { ciudad: "Madrid", codigoPostal: 28001 }
 },
 {
 nombre: "Luis",
-direccion: { ciudad: "Barcelona", codigoPostal: 08001 }
+direccion: { ciudad: "Barcelona", codigoPostal: 8001 }
 }
 ]
 };
